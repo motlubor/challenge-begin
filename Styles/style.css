@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    font-family: "Azeret Mono", monospace;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+}
+
+
+
+
+.navbar{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 30px;
+}
+
+
+.navstrong{
+    font-weight: 600;
+}
+
+
+.download-resume{
+ background-color: white ; 
+ padding: 10px;
+ border:1px solid gray;
+ border-radius: 5px;
+ font-weight: 600;
+}
