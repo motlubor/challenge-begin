@@ -28,3 +28,58 @@
  border-radius: 5px;
  font-weight: 600;
 }
+
+
+.main-section{
+    background-image: url(../assets/Hero-bg.png);
+    height: 650px;
+    text-align: center;
+    margin-top: 40px;
+}
+
+.hero-section{
+    margin-left: 221px;
+    margin-right: 221px;
+    margin-top: 26px;
+    margin-bottom: 45px;
+}
+.hero-image{
+    margin-top: 26px;
+    margin-bottom: 32px;
+}
+.hero-h1{
+color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 35px;
+font-weight: 800;
+line-height: 68px;
+letter-spacing: 0%;
+text-align: center;
+margin-bottom: 24px;
+}
+
+.hero-p{
+color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0%;
+text-align: center;
+margin-bottom: 32px;
+}
+
+.hero-button{
+ border-radius: 8px;
+background: rgb(13, 19, 33);
+color: rgb(255, 255, 255);
+font-family: Azeret Mono;
+font-size: 20px;
+font-weight: 600;
+line-height: 23px;
+letter-spacing: 0%;
+text-align: center;
+padding: 21px 24px 21px 24px;
+margin-bottom: 45px;
+
+}
