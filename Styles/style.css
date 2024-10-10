@@ -218,6 +218,99 @@ box-sizing: border-box;
 
 }
 
+.lang-box{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
+
+
+
+
+
+.lang-box-1{
+    width: 300px;
+    height: 299px;
+    padding: 20px;
+    border-radius: 16px;
+    background: rgba(255, 76, 30, 0.05);
+}
+.lang-box-2{
+    width: 300px;
+    height: 299px;
+    padding: 20px;
+    border-radius: 16px;
+    background: rgba(0, 76, 232, 0.05);
+}
+.lang-box-3{
+    width: 300px;
+    height: 299px;
+    padding: 20px;
+    border-radius: 16px;
+    background: rgba(255, 223, 0, 0.05);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.lang-box-1 img{
+    padding-left: 20px;
+    padding-bottom: 30px;
+}
+.lang-box-h3{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 24px;
+    font-weight: 800;
+    line-height: 36px;
+    letter-spacing: 0%;
+    text-align: left;
+    padding-left: 20px;
+}
+.lang-box-p{
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0%;
+text-align: left;
+padding-bottom: 30px;
+padding-left: 20px;
+padding-top: 10px;
+}
+
+.lang-learn-more{
+font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 600;
+line-height: 23px;
+letter-spacing: 0%;
+text-align: center;
+padding: 12px 20px 12px 20px;
+color: rgb(13, 19, 33);
+}
+
+
+
+
+
+
+
+
+
+
+
+
 .target-tech{
     display: flex;
     justify-content:flex-start;
@@ -281,9 +374,19 @@ box-sizing: border-box;
 footer{
     display: flex;
     justify-content: space-between;
+    margin-top: 80px;
+    background: rgba(13, 19, 33, 0.03);
 }
 
+.footer-h3{
+    padding: 20px;
+    margin-left: 100px;
+    font-weight: 600;
+}
 .tech-account{
     display: flex;
     justify-content: space-around;
+    gap: 20px;
+    padding: 20px;
+    margin-right: 100px;
 }
