@@ -83,3 +83,92 @@ padding: 21px 24px 21px 24px;
 margin-bottom: 45px;
 
 }
+
+.web-development{
+    margin-top: 154px;
+    margin-left: 152px;
+    margin-right: 148px;
+}
+
+.web-development-h2{
+color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 32px;
+font-weight: 800;
+line-height: 37px;
+letter-spacing: 0%;
+text-align: center;
+}
+
+.web-development-p{
+color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0%;
+text-align: center;
+margin-top: 34px;
+margin-bottom: 100px;
+}
+
+
+
+.coding-section{
+display: flex;
+justify-content: space-evenly;
+align-items: c;
+margin-top: 96px;
+margin-bottom: 80px;
+}
+
+.code-detail{
+    margin-right: 98px;
+    width: 477px;
+    height: 140px;
+
+}
+.code-detail-2{
+    margin-left:  98px;
+    width: 477px;
+    height: 140px;
+}
+.code-two-img{
+    margin-left: 98px;
+}
+
+
+
+.code-h2{
+color: rgba(13, 19, 33, 0.7);
+font-family: Azeret Mono;
+font-size: 24px;
+font-weight: 700;
+line-height: 36px;
+letter-spacing: 0%;
+text-align: left;
+}
+
+.code-p{
+margin-top: 36px;
+color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0%;
+text-align: left;
+}
+
+.learn-more{
+color: rgb(13, 19, 33);
+background-color: white;
+font-family: Azeret Mono;
+font-size: 20px;
+font-weight: 600;
+line-height: 23px;
+letter-spacing: 0%;
+text-align: center;
+padding: 12px 20px 12px 20px;
+margin-top: 32px;
+}
