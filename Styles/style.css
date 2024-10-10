@@ -81,6 +81,7 @@ letter-spacing: 0%;
 text-align: center;
 padding: 21px 24px 21px 24px;
 margin-bottom: 45px;
+text-decoration: none;
 
 }
 
@@ -253,15 +254,6 @@ box-sizing: border-box;
 
 
 
-
-
-
-
-
-
-
-
-
 .lang-box-1 img{
     padding-left: 20px;
     padding-bottom: 30px;
@@ -299,15 +291,6 @@ text-align: center;
 padding: 12px 20px 12px 20px;
 color: rgb(13, 19, 33);
 }
-
-
-
-
-
-
-
-
-
 
 
 
@@ -416,12 +399,6 @@ text-align: center;
 padding-top: 20px;
 }
 
-
-
-
-
-
-
 footer{
     display: flex;
     justify-content: space-between;
@@ -440,4 +417,31 @@ footer{
     gap: 20px;
     padding: 20px;
     margin-right: 100px;
+}
+
+.common-h2{
+ color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 32px;
+font-weight: 800;
+line-height: 37px;
+letter-spacing: 0%;
+text-align: center;
+padding-top: 50px;
+
+}
+
+
+.target-p{
+color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0%;
+text-align: center;
+margin-top: 34px;
+margin-bottom: 100px;
+margin-right: 290px;
+margin-left: 290px;
 }
