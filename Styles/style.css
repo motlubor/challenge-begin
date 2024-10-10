@@ -365,11 +365,62 @@ color: rgb(13, 19, 33);
     background-image: url(../assets/handshake.jpg);
     background-size:cover;
     width: 1000px;
-    height: 400px;
+    height: 350px;
     margin-bottom: 20px;
     margin-left: 120px;
     margin-right: 100px;
+    border-radius: 16px;
+
+    }
+    .input-field{
+        width: 548px;
+        height: 57px;
+        box-sizing: border-box;
+        border: 1px solid rgba(13, 19, 33, 0.15);
+        border-radius: 8px;
+        margin-left: 50px;
+        padding-left: 10px;
+        margin-top: 30px;
+        background: rgb(255, 255, 255);
+    }
+.support-button{
+    width: 120px;
+    height: 57px;
+    border: none;
+    border-radius: 8px;
+    padding: 17px 20px 17px 20px;
+    margin-left: 20px;
 }
+
+
+
+
+.support{
+color: rgb(255, 255, 255);
+font-family: Azeret Mono;
+font-size: 32px;
+font-weight: 700;
+line-height: 36px;
+letter-spacing: 0%;
+text-align: center;
+padding-top: 60px;
+}
+.support-p{
+    color: rgb(255, 255, 255);
+font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0%;
+text-align: center;
+padding-top: 20px;
+}
+
+
+
+
+
+
 
 footer{
     display: flex;
