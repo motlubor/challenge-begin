@@ -183,7 +183,7 @@ margin-top: 32px;
 
 
 
-/* =================================== inspiration section section css============================ */
+/* ======================================================= inspiration section css============================ */
 
 
 
@@ -211,13 +211,79 @@ padding-bottom: 24px;
     
 }
 
-
-
 .iframe-video{
 text-align: center;
 margin-bottom: 183px;
 box-sizing: border-box;
 
+}
 
+.target-tech{
+    display: flex;
+    justify-content:flex-start;
+    align-items: center;
+    width: 1050px;
+    height: 200px;
+    box-sizing: border-box;
+    border: 1px solid rgba(13, 19, 33, 0.15);
+    border-radius: 16px;
+    background: rgb(255, 255, 255);
+    margin-left: 100px;
+    margin-right: 120px;
+    margin-bottom: 30px;
+}
+.tech-img{
+    padding: 30px;
+}
+.tech-h3{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 24px;
+    font-weight: 800;
+    line-height: 36px;
+    letter-spacing: 0%;
+    text-align: left;
+    padding: 10px;
+}
+.tech-p{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0%;
+    text-align: left;
+    padding: 10px;
+}
 
+.tech-link{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 19px;
+    letter-spacing: 0%;
+    text-align: left;
+    text-decoration-line: underline;
+    padding: 10px;
+}
+
+.support-section{
+    background-image: url(../assets/handshake.jpg);
+    background-size:cover;
+    width: 1000px;
+    height: 400px;
+    margin-bottom: 20px;
+    margin-left: 120px;
+    margin-right: 100px;
+}
+
+footer{
+    display: flex;
+    justify-content: space-between;
+}
+
+.tech-account{
+    display: flex;
+    justify-content: space-around;
 }
