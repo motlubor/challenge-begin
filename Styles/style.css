@@ -258,6 +258,14 @@ box-sizing: border-box;
     padding-left: 20px;
     padding-bottom: 30px;
 }
+.lang-box-2 img{
+    padding-left: 20px;
+    padding-bottom: 30px;
+}
+.lang-box-3 img{
+    padding-left: 20px;
+    padding-bottom: 30px;
+}
 .lang-box-h3{
     color: rgb(13, 19, 33);
     font-family: Azeret Mono;
@@ -373,6 +381,13 @@ color: rgb(13, 19, 33);
     border-radius: 8px;
     padding: 17px 20px 17px 20px;
     margin-left: 20px;
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 23px;
+    letter-spacing: 0%;
+    text-align: center;
 }
 
 
@@ -389,7 +404,7 @@ text-align: center;
 padding-top: 60px;
 }
 .support-p{
-    color: rgb(255, 255, 255);
+color: rgb(255, 255, 255);
 font-family: Azeret Mono;
 font-size: 16px;
 font-weight: 400;
@@ -397,6 +412,8 @@ line-height: 26px;
 letter-spacing: 0%;
 text-align: center;
 padding-top: 20px;
+padding-right: 150px;
+padding-left: 150px;
 }
 
 footer{
@@ -432,6 +449,20 @@ padding-top: 50px;
 }
 
 
+.common-p{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0%;
+    text-align: center;
+    margin-top: 34px;
+    margin-bottom: 100px;
+    
+    }
+
+
 .target-p{
 color: rgb(13, 19, 33);
 font-family: Azeret Mono;
@@ -442,6 +473,6 @@ letter-spacing: 0%;
 text-align: center;
 margin-top: 34px;
 margin-bottom: 100px;
-margin-right: 290px;
-margin-left: 290px;
+margin-right: 250px;
+margin-left: 250px;
 }
