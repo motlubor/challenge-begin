@@ -6,9 +6,6 @@
     font-style: normal;
 }
 
-
-
-
 .navbar{
     display: flex;
     justify-content: space-around;
@@ -93,7 +90,6 @@ text-decoration: none;
     margin-right: 148px;
 }
 
-
 .web-development-h2{
 color: rgb(13, 19, 33);
 font-family: Azeret Mono;
@@ -116,8 +112,6 @@ text-align: center;
 margin-top: 34px;
 margin-bottom: 100px;
 }
-
-
 
 .coding-section{
 border-radius: 16px;
@@ -143,8 +137,6 @@ margin-bottom: 80px;
 .code-two-img{
     margin-left: 98px;
 }
-
-
 
 .code-h2{
 color: rgba(13, 19, 33, 0.7);
@@ -180,13 +172,7 @@ padding: 12px 20px 12px 20px;
 margin-top: 32px;
 }
 
-
-
-
-
 /* ======================================================= inspiration section css============================ */
-
-
 
 .inspiration{
     text-align: center;
@@ -226,9 +212,6 @@ box-sizing: border-box;
 }
 
 
-
-
-
 .lang-box-1{
     width: 300px;
     height: 299px;
@@ -250,9 +233,6 @@ box-sizing: border-box;
     border-radius: 16px;
     background: rgba(255, 223, 0, 0.05);
 }
-
-
-
 
 .lang-box-1 img{
     padding-left: 20px;
@@ -299,8 +279,6 @@ text-align: center;
 padding: 12px 20px 12px 20px;
 color: rgb(13, 19, 33);
 }
-
-
 
 .target-tech{
     display: flex;
@@ -389,9 +367,6 @@ color: rgb(13, 19, 33);
     letter-spacing: 0%;
     text-align: center;
 }
-
-
-
 
 .support{
 color: rgb(255, 255, 255);
